@@ -1,0 +1,7 @@
+C:\Users\kasat\source\repos\ChessBoard\ChessBoard\bin\Debug\ChessBoard.exe.config
+C:\Users\kasat\source\repos\ChessBoard\ChessBoard\bin\Debug\ChessBoard.exe
+C:\Users\kasat\source\repos\ChessBoard\ChessBoard\bin\Debug\ChessBoard.pdb
+C:\Users\kasat\source\repos\ChessBoard\ChessBoard\obj\Debug\ChessBoard.csprojAssemblyReference.cache
+C:\Users\kasat\source\repos\ChessBoard\ChessBoard\obj\Debug\ChessBoard.csproj.CoreCompileInputs.cache
+C:\Users\kasat\source\repos\ChessBoard\ChessBoard\obj\Debug\ChessBoard.exe
+C:\Users\kasat\source\repos\ChessBoard\ChessBoard\obj\Debug\ChessBoard.pdb
